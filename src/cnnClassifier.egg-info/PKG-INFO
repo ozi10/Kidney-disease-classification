@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ozi10/Kidney-disease-classification
+Author: ozi10
+Author-email: owaismessi10@gmail.com
+Project-URL: Bug Tracker, https://github.com/ozi10/Kidney-disease-classification/issues
+
+# Kidney-disease-classification
+End to end kidney disease ml project
