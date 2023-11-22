@@ -2,6 +2,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: "https://drive.google.com/drive/folders/16G5Hp4qxUtqSqNejIYsGMDIJxwrZFhfj?usp=sharing"
+  source_URL: "https://drive.google.com/file/d/1B4KfV089MgvTnffdHtUQYIpVkUH5ehpd/view?usp=sharing"
   local_data_file: artifacts/data_ingestion/kidney-ct-scan-image.zip
   unzip_dir: artifacts/data_ingestion
